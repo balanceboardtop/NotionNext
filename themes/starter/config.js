@@ -357,13 +357,13 @@ const CONFIG = {
   STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '',
 
   // 404页面的提示语
-  STARTER_404_TITLE: 'It looks like we can't find the page you're looking for。',
-  STARTER_404_TEXT: 'Sorry! The page you are looking for does not exist. It may have been moved or deleted.。',
+  STARTER_404_TITLE: 'Sorry! The page you are looking for does not exist. It may have been moved or deleted',
+  STARTER_404_TEXT: 'Sorry! The page you are looking for does not exist. It may have been moved or deleted',
   STARTER_404_BACK: 'go home',
 
   // 页面底部的行动呼吁模块
   STARTER_CTA_ENABLE: true,
-  STARTER_CTA_TITLE: 'What are you waiting for?？',
+  STARTER_CTA_TITLE: 'What are you waiting for？',
   STARTER_CTA_TITLE_2: 'Get started now',
   STARTER_CTA_DESCRIPTION:
     'More Exercise style for Balance board, Focus more on maintaining your balance',
