@@ -140,7 +140,7 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        'Super fun and durable. I have been using it without any problems and I can play with it even more on the weekends. The kids love it too',
+        'The kids love it too',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'ALex',
