@@ -112,10 +112,10 @@ const CONFIG = {
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
-  STARTER_TESTIMONIALS_TITLE: '用户反馈',
-  STARTER_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
+  STARTER_TESTIMONIALS_TITLE: 'Feedback',
+  STARTER_TESTIMONIALS_TEXT_1: 'What our users say',
   STARTER_TESTIMONIALS_TEXT_2:
-    '数千位站长选择用NotionNext搭建他们的网站,通过帮助手册、交流社群以及技术咨询，大家成功上线了自己的网站',
+    'Thousands of fans choose to use toibena to train their balance. Through the help manual, communication community and technical consultation, everyone enjoys the joy of mastering balance.',
   STARTER_TESTIMONIALS_STAR_ICON: '/images/starter/testimonials/icon-star.svg', // 评分图标
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
@@ -140,9 +140,9 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        'The kids love it too',
+        'The kids love it too,Definitely lives up to the hype and is at an unbelievable price compared to others. It came well packaged, too.',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        '',
+        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'ALex',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'ALex',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -247,7 +247,7 @@ const CONFIG = {
   STARTER_CONTACT_EMAIL_TEXT: 'toibenaonline@gmail.com',
 
   // 嵌入外部表单
-  STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/yfctc7', // 基于NoteForm创建，将留言数据存在Notion中
+  STARTER_CONTACT_MSG_EXTERNAL_URL: '', // 基于NoteForm创建，将留言数据存在Notion中
   //   自定义留言表单，以下几个配置暂时废弃
   //   STARTER_CONTACT_MSG_TITLE: 'Leave us a message',
   //   STARTER_CONTACT_MSG_NAME: 'name',
