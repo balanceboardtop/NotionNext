@@ -140,10 +140,10 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        'Super fun and sturdy. I've been using it without trouble and I'm 206 or more on weekends. The kids love it.( •̀ ω •́ )y ',
+        'Super fun and durable. I have been using it without any problems and I can play with it even more on the weekends. The kids love it too',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'DWIND',
+        '',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'ALex',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'ALex',
       STARTER_TESTIMONIALS_ITEM_URL: ''
     },
