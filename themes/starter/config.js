@@ -209,7 +209,7 @@ const CONFIG = {
     {
       STARTER_TEAM_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa06c61bb-980e-4180-bc18-c15f92c78bb4%2Ftangly1024.jpg?table=collection&id=8e7acf17-de09-4fa1-abde-b5b80ad4a813&t=8e7acf17-de09-4fa1-abde-b5b80ad4a813&width=100&cache=v2',
-      STARTER_TEAM_ITEM_NICKNAME: 'Thoms',
+      STARTER_TEAM_ITEM_NICKNAME: 'Thomas',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
     },
     {
