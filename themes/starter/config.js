@@ -65,7 +65,7 @@ const CONFIG = {
   STARTER_ABOUT_TEXT:
     'Toibena vision is to help you find your balance and experience the beauty of life through a stronger sense of balance, so you can perform at your best and face the world safely!',
   STARTER_ABOUT_BUTTON_TEXT: 'Learn more',
-  STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
+  STARTER_ABOUT_BUTTON_URL: 'https://www.amazon.com/dp/B0FGY217N7?th=1',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about1.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '3000+',
