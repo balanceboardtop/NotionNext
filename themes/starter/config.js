@@ -21,7 +21,7 @@ const CONFIG = {
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
-  STARTER_HERO_PREVIEW_IMAGE: '', // 产品预览图 ，默认读取public目录下图片
+  STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/Z1.jpg', // 产品预览图 ，默认读取public目录下图片
   STARTER_HERO_BANNER_IMAGE: '', // hero区下方的全宽图
 
   // 顶部右侧导航暗流
@@ -66,8 +66,8 @@ const CONFIG = {
     'Toibena vision is to help you find your balance and experience the beauty of life through a stronger sense of balance, so you can perform at your best and face the world safely!',
   STARTER_ABOUT_BUTTON_TEXT: 'Learn more',
   STARTER_ABOUT_BUTTON_URL: 'https://www.amazon.com/dp/B0FGY217N7?th=1',
-  STARTER_ABOUT_IMAGE_1: '/images/starter/about/about1.jpg',
-  STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
+  STARTER_ABOUT_IMAGE_1: '/images/starter/about/about2.jpg',
+  STARTER_ABOUT_IMAGE_2: '/images/starter/about/about1.jpg',
   STARTER_ABOUT_TIPS_1: '3000+',
   STARTER_ABOUT_TIPS_2: 'Sports Expert',
   STARTER_ABOUT_TIPS_3: 'Practicing balance',
