@@ -4,14 +4,14 @@
 const CONFIG = {
   // 默认只展示Logo文字，如果设置了logo图片，会在文字左侧显示图标
   STARTER_LOGO: '', // 普通logo图片 示例：/images/starter/logo/logo.svg
-  STARTER_LOGO_WHITE: '', // 透明底浅色logo 示例： /images/starter/logo/logo-white.svg
+  STARTER_LOGO_WHITE: '/images/starter/logo/logo-white.svg', // 透明底浅色logo 示例： /images/starter/logo/logo-white.svg
 
   // MENU ， 菜单部分不在此处配置，请在Notion数据库中添加MENU
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: 'Balance Training Full Body Benefits', // 英雄区文字
-  STARTER_HERO_TITLE_2: 'Balance Training Improves Everything', // 英雄区文字
+  STARTER_HERO_TITLE_1: 'Reclaim balance to start better life', // 英雄区文字
+  STARTER_HERO_TITLE_2: '', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: 'Get started', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
@@ -22,7 +22,7 @@ const CONFIG = {
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
   STARTER_HERO_PREVIEW_IMAGE: '', // 产品预览图 ，默认读取public目录下图片
-  STARTER_HERO_BANNER_IMAGE: '/images/starter/hero/A1.jpg', // hero区下方的全宽图
+  STARTER_HERO_BANNER_IMAGE: '/images/starter/hero/Z1.jpg', // hero区下方的全宽图
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
